@@ -32,7 +32,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func subtract(_ sender: Any) {
-        
+        let firstNumber = Int(number1.text!)!
         
     }
     
